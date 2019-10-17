@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<variables>
+	<Variable name="appUrl" value="https://fuscdrmsmc245-fa-ext.us.oracle.com/homePage/faces/FuseWelcome" />
+	<Variable name="FFDriver" value="D:\Softwares\Selenium\geckodriver.exe" />
+	<Variable name="chromeDriver" value="D:\Softwares\Selenium\chromedriver.exe" />
+	<Variable name="IEDriver" value="D:\Softwares\Selenium\IEDriverServer.exe" />
+	<Variable name="EdgeDriver" value = "D:\Softwares\Selenium\MicrosoftWebDriver.exe" />
+	<Variable name="suffix" value="0507" />
+</variables>
